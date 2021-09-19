@@ -3,4 +3,4 @@ we alway have something that we need to do, it would be nice to keep track of th
 
 <iframe src="https://giphy.com/embed/Jw810TmGjTby2OaCYF" width="480" height="402" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/todomaker-Jw810TmGjTby2OaCYF">via GIPHY</a></p>
 
-http://www.giphy.com/gifs/aJoLpRPDF5WdZUqhJg
+
